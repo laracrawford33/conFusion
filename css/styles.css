@@ -15,8 +15,8 @@
 
 .footer {
     background-color: #d1c4e9;
-    margin: 0px auto;
-    padding: 10px 0px 10px 0px;
+    margin: 20px 0px 20px 0px;
+    padding: 20px 0px 20px 0px;
 }
 
 .jumbotron {
@@ -39,4 +39,8 @@ body {
 
 .navbar-dark {
     background-color: #512da8
+}
+
+.card-head {
+    margin-top:10px;
 }
