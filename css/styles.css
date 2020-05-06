@@ -2,6 +2,16 @@
   margin: 0px auto;
   padding: 0px 0px; }
 
+.modal-header {
+  background-color: #512DA8; }
+  .modal-header .modal-title {
+    color: #D1C4E9; }
+  .modal-header .close {
+    color: #D1C4E9; }
+
+.modal-body {
+  background-color: #9575CD; }
+
 .row-content {
   margin: 0px auto;
   padding: 50px 0px;
